@@ -1,0 +1,10 @@
+# Ignorar o Ambiente Virtual
+venv/
+Scripts/
+
+# Ignorar ficheiros temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar ficheiros de configuração locais (como senhas do banco)
+.env
